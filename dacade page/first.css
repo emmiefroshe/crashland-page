@@ -19,17 +19,18 @@ header{
 
 .float{
 	display: flex;
+	background-color: #A8FF61;
 }
 h1{
 font-family: cursive;
 }
 
 body{
-	background-color: yellow;
+	background-color: #A8FF61;
 	
 }
 .green{
-	background-color: tomato;
+	background-color: #B31800;
 
 	
 }
